@@ -1,0 +1,272 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "page": "index",
+            "component": "linearcontact1",
+            "attributes": {
+                "fblink": "https://www.facebook.com/StellarNepal",
+                "twitterlink": "https://www.twitter.com/StellarNepal",
+                "linkedinlink": "https://www.linkedin.com/company/stellar-education",
+                "contact": [
+                    {
+                        "location": "AdwaitMarg,Bagbazar-31,Kathmandu,Nepal",
+                        "phone": "+977-01-4253002,+977-01-6201234"
+                    },
+                    {
+                        "location": "uite 1212 level 12 301 George Street Sydney 2000, Australia",
+                        "phone": "+61 2 8958 6749"
+                    }
+                ]
+            },
+            "order": 1,
+            "doman": 3
+        },
+        {
+            "id": 3,
+            "page": "index",
+            "component": "header1",
+            "attributes": {
+                "logo": "http://stellar.edu.np/public/img/stellar-banner.jpg"
+            },
+            "order": 2,
+            "doman": 4
+        },
+        {
+            "id": 4,
+            "page": "index",
+            "component": "bannerSlider1",
+            "attributes": {
+                "slider": [
+                    {
+                        "img": "http://themetrademark.com/demo/edumart/wp-content/themes/edumart/images/banner2.jpg",
+                        "title": "WELCOME TO STELLAR EDUCATION",
+                        "caption": "Stellar Education is one of the reliable consultancy companies with a team of expert professionals in the field of abroad studies and document processing. We provide you best counselling and assistance to any of your stages for abroad study plans."
+                    },
+                    {
+                        "img": "http://themetrademark.com/demo/edumart/wp-content/themes/edumart/images/banner1.jpg",
+                        "title": "Explore the World of Japanese Culture & Education",
+                        "caption": "Stuy in Japan."
+                    },
+                    {
+                        "img": "http://themetrademark.com/demo/edumart/wp-content/themes/edumart/images/banner3.jpg",
+                        "title": "STUDY IN NEWZEALAND",
+                        "caption": "Stellar Education is one of the reliable consultancy companies with a team of expert professionals in the field of abroad studies and document processing. We provide you best counselling and assistance to any of your stages for abroad study plans."
+                    }
+                ]
+            },
+            "order": 3,
+            "doman": 2
+        },
+        {
+            "id": 5,
+            "page": "index",
+            "component": "cardSlider1",
+            "attributes": {
+                "title": "Services We Provide",
+                "caption": "",
+                "services": [
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/service_01-1280x960.jpg",
+                        "title": "Private individuals product",
+                        "caption": "Leverage agile frameworks to provide a robust synopsis for high level overviews iterative indicators offline."
+                    },
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/service_01-1280x960.jpg",
+                        "title": "Small & medium business clients",
+                        "caption": "Organically grow the holistic world view of disruptive innovation via workplace diversity will have multiple."
+                    },
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/service_02-1280x960.jpg",
+                        "title": "Private individuals product",
+                        "caption": "Leverage agile frameworks to provide a robust synopsis for high level overviews iterative indicators offline."
+                    },
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/service_02-1280x960.jpg",
+                        "title": "Private individuals product",
+                        "caption": "Leverage agile frameworks to provide a robust synopsis for high level overviews iterative indicators offline."
+                    },
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/service_02-1280x960.jpg",
+                        "title": "Private individuals product",
+                        "caption": "Leverage agile frameworks to provide a robust synopsis for high level overviews iterative indicators offline."
+                    },
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/service_02-1280x960.jpg",
+                        "title": "Private individuals product",
+                        "caption": "Leverage agile frameworks to provide a robust synopsis for high level overviews iterative indicators offline."
+                    },
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/service_02-1280x960.jpg",
+                        "title": "Private individuals product",
+                        "caption": "Leverage agile frameworks to provide a robust synopsis for high level overviews iterative indicators offline."
+                    },
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/service_02-1280x960.jpg",
+                        "title": "Private individuals product",
+                        "caption": "Leverage agile frameworks to provide a robust synopsis for high level overviews iterative indicators offline."
+                    }
+                ]
+            },
+            "order": 4,
+            "doman": 5
+        },
+        {
+            "id": 24,
+            "page": "index",
+            "component": "twoColumnSection1",
+            "attributes": {
+                "sections": [
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/image_illustrations_07.png"
+                    },
+                    {
+                        "title": "Future is brighter when you're more prepared",
+                        "subTitle": "We bring the breath of our experience and industry knowledge to help you succeed.",
+                        "description": "Nifty team is a diverse network of consultants and industry professionals with a global mindset and a collaborative culture. We work to understand your issues and are driven to ask better questions in the pursuit of making your business work better."
+                    }
+                ]
+            },
+            "order": 5,
+            "doman": 11
+        },
+        {
+            "id": 6,
+            "page": "index",
+            "component": "cardSlider1",
+            "attributes": {
+                "bgImg": "http://themetrademark.com/demo/edumart/wp-content/themes/edumart/images/banner2.jpg",
+                "services": [
+                    {
+                        "img": "http://stellar.edu.np/public/img/nzcertificate.jpg"
+                    },
+                    {
+                        "img": "http://stellar.edu.np/public/img/uniagent-certification.png"
+                    },
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/service_02-1280x960.jpg"
+                    }
+                ]
+            },
+            "order": 6,
+            "doman": 5
+        },
+        {
+            "id": 7,
+            "page": "index",
+            "component": "cardSlider1",
+            "attributes": {
+                "title": "Students' Experience",
+                "services": [
+                    {
+                        "img": "http://stellar.edu.np/public/img/sandy-usa-stellar.jpg",
+                        "caption": "Getting into a university in USA is much easier to dream than reality I was baffled for a couple of months with the information on How to get into Top Ranked Institutes over the internet. The whole thing went smoothly from Admissions to Visa at Stellar Education.",
+                        "author": "Sandha Sahi",
+                        "designation": "test"
+                    },
+                    {
+                        "img": "http://stellar.edu.np/public/img/stellar-niroj%20.jpg",
+                        "caption": "Stellar Education is not only professional in teaching and counselling students, but is also good at taking care of students. variety of services available made me always feel very supported very supported",
+                        "author": "Sandha",
+                        "designation": "test"
+                    },
+                    {
+                        "img": "https://nifty.bold-themes.com/square/wp-content/uploads/sites/3/2020/08/service_02-1280x960.jpg",
+                        "caption": "Leverage agile frameworks to provide a robust synopsis for high level overviews iterative indicators offline.",
+                        "author": "Sandha",
+                        "designation": "test"
+                    }
+                ]
+            },
+            "order": 7,
+            "doman": 5
+        },
+        {
+            "id": 1,
+            "page": "index",
+            "component": "textType1",
+            "attributes": {
+                "title": ""
+            },
+            "order": 8,
+            "doman": 1
+        },
+        {
+            "id": 25,
+            "page": "index",
+            "component": "textSection",
+            "attributes": {
+                "title": "Message From MD",
+                "img": "http://stellar.edu.np/public/img/Sudip.jpg",
+                "alignContent": "left",
+                "author": "Sudip KC",
+                "caption": "Let me begin by wishing my heartfelt gratitude for showing deep faith in us. Your continued support & trust have, obviously, established us as a trusted name in the Education Consultancy Industry. It would not have been possible without what we have earned.Our highly dedicated and committed team strives to achieve excellence in the field of overseas educational consultancy and I am honoured to be the leader of this team. With a keen focus on quality education, we are steadfast in our path, giving assistance and aid to students for attaining meritorious heights. We work closely to serve students in fulfilling their academic dreams through a cost-effective package and professional guidance. We look forward to answer your queries and ensure effective assistance for education overseas."
+            },
+            "order": 8,
+            "doman": 12
+        },
+        {
+            "id": 15,
+            "page": "index",
+            "component": "cardSlider1",
+            "attributes": {
+                "title": "Visa Updates",
+                "itemSize": 5,
+                "services": [
+                    {
+                        "img": "",
+                        "title": "",
+                        "caption": ""
+                    },
+                    {
+                        "img": "http://stellar.edu.np/public/img/scared heart australia.png",
+                        "title": "SEMINAR !!! IIBIT- Federation University@ Stellar Education",
+                        "caption": "2018-12-09 DarbarMarg"
+                    },
+                    {
+                        "img": "http://stellar.edu.np/public/img/scared heart australia.png",
+                        "title": "SEMINAR !!! IIBIT- Federation University@ Stellar Education",
+                        "caption": "2018-12-09 DarbarMarg"
+                    },
+                    {
+                        "img": "http://stellar.edu.np/public/img/scared heart australia.png",
+                        "title": "SEMINAR !!! IIBIT- Federation University@ Stellar Education",
+                        "caption": "2018-12-09 DarbarMarg"
+                    },
+                    {
+                        "img": "http://stellar.edu.np/public/img/scared heart australia.png",
+                        "title": "SEMINAR !!! IIBIT- Federation University@ Stellar Education",
+                        "caption": "2018-12-09 DarbarMarg"
+                    },
+                    {
+                        "img": "http://stellar.edu.np/public/img/scared heart australia.png",
+                        "title": "SEMINAR !!! IIBIT- Federation University@ Stellar Education",
+                        "caption": "2018-12-09 DarbarMarg"
+                    }
+                ]
+            },
+            "order": 9,
+            "doman": 5
+        },
+        {
+            "id": 16,
+            "page": "index",
+            "component": "footer1",
+            "attributes": {
+                "title": ""
+            },
+            "order": 10,
+            "doman": 9
+        },
+        {
+            "id": 17,
+            "page": "index",
+            "component": "copywrite1",
+            "attributes": {
+                "title": ""
+            },
+            "order": 11,
+            "doman": 10
+        }
+    ]
+}
