@@ -1,0 +1,66 @@
+{
+    "data": [
+        {
+            "id": 26,
+            "page": "accomodations",
+            "component": "linearcontact1",
+            "attributes": {
+                "fblink": "https://www.facebook.com/StellarNepal",
+                "twitterlink": "https://www.twitter.com/StellarNepal",
+                "linkedinlink": "https://www.linkedin.com/company/stellar-education",
+                "contact": [
+                    {
+                        "location": "AdwaitMarg,Bagbazar-31,Kathmandu,Nepal",
+                        "phone": "+977-01-4253002,+977-01-6201234"
+                    },
+                    {
+                        "location": "uite 1212 level 12 301 George Street Sydney 2000, Australia",
+                        "phone": "+61 2 8958 6749"
+                    }
+                ]
+            },
+            "order": 1,
+            "doman": 3
+        },
+        {
+            "id": 27,
+            "page": "accomodations",
+            "component": "header1",
+            "attributes": {
+                "logo": "http://stellar.edu.np/public/img/stellar-banner.jpg"
+            },
+            "order": 2,
+            "doman": 4
+        },
+        {
+            "id": 30,
+            "page": "accomodations",
+            "component": "widgetAmberStudent",
+            "attributes": {
+                "title": ""
+            },
+            "order": 3,
+            "doman": 13
+        },
+        {
+            "id": 28,
+            "page": "accomodations",
+            "component": "footer1",
+            "attributes": {
+                "title": ""
+            },
+            "order": 4,
+            "doman": 9
+        },
+        {
+            "id": 29,
+            "page": "accomodations",
+            "component": "copywrite1",
+            "attributes": {
+                "title": ""
+            },
+            "order": 5,
+            "doman": 10
+        }
+    ]
+}
