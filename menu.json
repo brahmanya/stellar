@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "name": "Home",
+            "id": 1,
+            "parent_menu_id": null,
+            "link": "/",
+            "child": []
+        },
+        {
+            "name": "About Us",
+            "id": 2,
+            "parent_menu_id": null,
+            "link": "about-us",
+            "child": []
+        },
+        {
+            "name": "Study Abroad",
+            "id": 3,
+            "parent_menu_id": null,
+            "link": "study-abroad",
+            "child": [
+                {
+                    "name": "Australia",
+                    "id": 6,
+                    "parent_menu_id": 3,
+                    "link": "australia",
+                    "child": []
+                }
+            ]
+        },
+        {
+            "name": "Courses",
+            "id": 4,
+            "parent_menu_id": null,
+            "link": "courses",
+            "child": []
+        },
+        {
+            "name": "Accommodations",
+            "id": 5,
+            "parent_menu_id": null,
+            "link": "accomodations",
+            "child": []
+        }
+    ]
+}
